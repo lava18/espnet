@@ -34,7 +34,7 @@ CSS10=
 HKUST1=
 HKUST2=
 HUI_ACG=downloads
-HUB4_SPANISH=
+HUB4_SPANISH=RA
 LABOROTV=
 TEDXJP=
 LIBRISPEECH=
@@ -127,6 +127,7 @@ TOTONAC=downloads
 PRIMEWORDS_CHINESE=downloads
 SEAME=
 BENGALI=downloads
+MARATHI=downloads
 IWSLT14=
 
 # For only CMU TIR environment
